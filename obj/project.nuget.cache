@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GrBPKXHRexK5zN7l6n4GLBFN5lpfdOskSldHWDshNezEEEjjoX5G3xS3TWfVP4SLp/tnAxt36qNRBf6S0m+sog==",
+  "success": true,
+  "projectFilePath": "F:\\PCF\\PCFReactFieldDemo\\pcfdemo.pcfproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Surya\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.19.4\\microsoft.powerapps.msbuild.pcf.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}

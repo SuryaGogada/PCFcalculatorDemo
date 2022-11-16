@@ -1,0 +1,19 @@
+2022-11-13 22:49:32.180 - Info	
+Packing F:\PCF\PCFReactFieldDemo\obj\PowerAppsTools_calc\obj\Debug\Metadata to bin\Debug\PowerAppsTools_calc.zip
+
+2022-11-13 22:49:32.240 - Info	Processing Component: Entities
+2022-11-13 22:49:32.246 - Info	Processing Component: Roles
+2022-11-13 22:49:32.254 - Info	Processing Component: Workflows
+2022-11-13 22:49:32.255 - Info	Processing Component: FieldSecurityProfiles
+2022-11-13 22:49:32.255 - Info	Processing Component: Templates
+2022-11-13 22:49:32.257 - Info	Processing Component: EntityMaps
+2022-11-13 22:49:32.258 - Info	Processing Component: EntityRelationships
+2022-11-13 22:49:32.269 - Info	Processing Component: OrganizationSettings
+2022-11-13 22:49:32.271 - Info	Processing Component: optionsets
+2022-11-13 22:49:32.271 - Info	Processing Component: CustomControls
+2022-11-13 22:49:32.294 - Info	 - dev1.calculator
+2022-11-13 22:49:32.318 - Info	Processing Component: SolutionPluginAssemblies
+2022-11-13 22:49:32.321 - Info	Processing Component: EntityDataProviders
+2022-11-13 22:49:32.696 - Info	
+Unmanaged Pack complete.
+

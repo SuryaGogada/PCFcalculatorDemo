@@ -1,0 +1,2 @@
+F:\PCF\PCFReactFieldDemo\obj\PowerAppsTools_calc\obj\Debug\PowerAppsTools_calc.cdsproj.AssemblyReference.cache
+F:\PCF\PCFReactFieldDemo\obj\PowerAppsTools_calc\obj\Debug\PowerAppsTools_calc.cdsproj.CoreCompileInputs.cache

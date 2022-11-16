@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<manifest>
+  <control namespace="dev1" constructor="calculator" version="0.0.1" display-name-key="calculator" description-key="calculator description" control-type="standard" api-version="1.2.3">
+    <property name="amountAfterTax" display-name-key="Amount After Tax" description-key="Amount After Tax" of-type="Currency" usage="bound" required="true"/>
+    <resources>
+      <code path="bundle.js" order="1"/>
+    </resources>
+    <built-by name="pac" version="1.5.5"/>
+  </control>
+</manifest>

@@ -1,0 +1,57 @@
+﻿  Determining projects to restore...
+  All projects are up-to-date for restore.
+  
+  > pcf-project@1.0.0 clean F:\PCF\PCFReactFieldDemo
+  > pcf-scripts clean "--noColor" "--buildMode" "development" "--outDir" "F:\PCF\PCFReactFieldDemo\out\controls" "--buildSource" "MSBuild"
+  
+  [10:48:26 PM] [clean]  Initializing...
+  [10:48:26 PM] [clean]  Cleaning build outputs...
+  [10:48:26 PM] [clean]  Succeeded
+  Cleaning output directory: bin\Debug\, Intermediate directory: obj\Debug\ and Solution Packager working directory: obj\Debug\
+  Removing log file: obj\Debug\SolutionPackager.log and generated solution package: bin\Debug\PowerAppsTools_calc.zip
+  
+  > pcf-project@1.0.0 build F:\PCF\PCFReactFieldDemo
+  > pcf-scripts build "--noColor" "--buildMode" "development" "--outDir" "F:\PCF\PCFReactFieldDemo\out\controls" "--buildSource" "MSBuild"
+  
+  [10:48:32 PM] [build]  Initializing...
+  [10:48:32 PM] [build]  Validating manifest...
+  [10:48:32 PM] [build]  Validating control...
+  [10:48:36 PM] [build]  Generating manifest types...
+  [10:48:36 PM] [build]  Compiling and bundling control...
+  Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  
+  Why you should do it regularly:
+  https://github.com/browserslist/browserslist#browsers-data-updating
+  [BABEL] Note: The code generator has deoptimised the styling of F:\PCF\PCFReactFieldDemo\node_modules\react-dom\cjs\react-dom.development.js as it exceeds the max of 500KB.
+  [BABEL] Note: The code generator has deoptimised the styling of F:\PCF\PCFReactFieldDemo\node_modules\pcf-react\node_modules\react-dom\cjs\react-dom.development.js as it exceeds the max of 500KB.
+  [Webpack stats]:
+  Hash: f04a122c2b6c61557873
+  Version: webpack 4.42.1
+  Time: 52133ms
+  Built at: 11/13/2022 10:49:30 PM
+      Asset      Size  Chunks             Chunk Names
+  bundle.js  3.82 MiB    main  [emitted]  main
+  Entrypoint main = bundle.js
+  [./calculator/components/calculator.tsx] 3.25 KiB {main} [built]
+  [./calculator/index.ts] 1.75 KiB {main} [built]
+  [./calculator/viewmodel/TaxCalculator.ts] 3.03 KiB {main} [built]
+  [./node_modules/@fluentui/react/lib/Button.js] 50 bytes {main} [built]
+  [./node_modules/@fluentui/react/lib/Icons.js] 49 bytes {main} [built]
+  [./node_modules/@fluentui/react/lib/Label.js] 49 bytes {main} [built]
+  [./node_modules/@fluentui/react/lib/Stack.js] 49 bytes {main} [built]
+  [./node_modules/@fluentui/react/lib/TextField.js] 53 bytes {main} [built]
+  [./node_modules/mobx-react/dist/mobxreact.esm.js] 27.1 KiB {main} [built]
+  [./node_modules/mobx/dist/mobx.esm.js] 183 KiB {main} [built]
+  [./node_modules/office-ui-fabric-react/lib/Icons.js] 32 bytes {main} [built]
+  [./node_modules/pcf-react/lib/ControlContextService.js] 5.46 KiB {main} [built]
+  [./node_modules/pcf-react/lib/index.js] 1.21 KiB {main} [built]
+  [./node_modules/react-dom/index.js] 1.32 KiB {main} [built]
+  [./node_modules/react/index.js] 189 bytes {main} [built]
+      + 472 hidden modules
+  [10:49:30 PM] [build]  Generating build outputs...
+  [10:49:30 PM] [build]  Succeeded
+  Running Solution Packager to build package type: Unmanaged bin\Debug\PowerAppsTools_calc.zip
+  Solution: bin\Debug\PowerAppsTools_calc.zip generated.
+  Solution Package Type: Unmanaged generated.
+  Completed intermiediate files clean up.

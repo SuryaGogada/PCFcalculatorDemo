@@ -1,0 +1,117 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\PCF\\PCFReactFieldDemo\\obj\\PowerAppsTools_calc\\PowerAppsTools_calc.cdsproj": {}
+  },
+  "projects": {
+    "F:\\PCF\\PCFReactFieldDemo\\obj\\PowerAppsTools_calc\\PowerAppsTools_calc.cdsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\PCF\\PCFReactFieldDemo\\obj\\PowerAppsTools_calc\\PowerAppsTools_calc.cdsproj",
+        "projectName": "PowerAppsTools_calc",
+        "projectPath": "F:\\PCF\\PCFReactFieldDemo\\obj\\PowerAppsTools_calc\\PowerAppsTools_calc.cdsproj",
+        "packagesPath": "C:\\Users\\Surya\\.nuget\\packages\\",
+        "outputPath": "F:\\PCF\\PCFReactFieldDemo\\obj\\PowerAppsTools_calc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Surya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {
+              "F:\\PCF\\PCFReactFieldDemo\\pcfdemo.pcfproj": {
+                "projectPath": "F:\\PCF\\PCFReactFieldDemo\\pcfdemo.pcfproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Solution": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "F:\\PCF\\PCFReactFieldDemo\\pcfdemo.pcfproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\PCF\\PCFReactFieldDemo\\pcfdemo.pcfproj",
+        "projectName": "pcfdemo",
+        "projectPath": "F:\\PCF\\PCFReactFieldDemo\\pcfdemo.pcfproj",
+        "packagesPath": "C:\\Users\\Surya\\.nuget\\packages\\",
+        "outputPath": "F:\\PCF\\PCFReactFieldDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Surya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.PowerApps.MSBuild.Pcf": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

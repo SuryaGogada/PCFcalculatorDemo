@@ -1,0 +1,2 @@
+F:\PCF\PCFReactFieldDemo\obj\Debug\pcfdemo.pcfproj.AssemblyReference.cache
+F:\PCF\PCFReactFieldDemo\obj\Debug\pcfdemo.pcfproj.CoreCompileInputs.cache

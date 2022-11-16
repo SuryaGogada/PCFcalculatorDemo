@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "itQXZ2gUzCjKLPCDYGU2q8WEVoNfMYQ62sFeYjhB6DwLNw09DlxV2rbobbXSxq/ew5qbPfH38SyztIbAfeYQgQ==",
+  "success": true,
+  "projectFilePath": "F:\\PCF\\PCFReactFieldDemo\\obj\\PowerAppsTools_calc\\PowerAppsTools_calc.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Surya\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Surya\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\Surya\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.19.4\\microsoft.powerapps.msbuild.pcf.1.19.4.nupkg.sha512",
+    "C:\\Users\\Surya\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.19.4\\microsoft.powerapps.msbuild.solution.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
